@@ -1,0 +1,7 @@
+venv/
+.env
+logs/
+__pycache__/
+*.pyc
+data/raw_bookings.csv
+data/cleaned_bookings.csv
